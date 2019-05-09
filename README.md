@@ -1,2 +1,2 @@
 # arm_kinematics
-SMARTS Lab Summer Internship Project
+University of Washington-Seattle, SMARTS Lab Summer Internship Project

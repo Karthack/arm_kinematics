@@ -69,6 +69,7 @@ def main():
         
         group_feedback = group.get_next_feedback(reuse_fbk=group_feedback)
         w_t = np.multiply(w,t)
+        #these give velocity values to be followed by the motor
         #group_command.velocity = 2*np.sin(w_t)
         #I am generating a random input signal (random gaussian input)
         #group_command.velocity =  random.gauss(0,0.6)
